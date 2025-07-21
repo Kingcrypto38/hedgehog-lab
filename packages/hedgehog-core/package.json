@@ -35,7 +35,7 @@
         "clean-webpack-plugin": "^3.0.0",
         "csv": "^5.5.0",
         "esbuild-loader": "^2.9.1",
-        "gpu.js": "^2.9.5",
+        "gpu.js": "^2.16.0",
         "lerna": "^5.5.4",
         "lodash": "^4.17.21",
         "mathjs": "^7.1.0",
