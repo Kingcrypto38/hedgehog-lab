@@ -37,7 +37,7 @@
         "esbuild-loader": "^2.9.1",
         "gpu.js": "^2.9.5",
         "lerna": "^5.5.4",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "mathjs": "^7.1.0",
         "ml-hclust": "^3.0.0",
         "ml-matrix": "^6.8.0",
